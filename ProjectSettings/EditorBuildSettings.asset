@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARDKExamples/ContextAwareness/Meshing/MeshingSemantics.unity
+    guid: cccc54269e5094071992b7e1aa2901b6
   m_configObjects: {}
